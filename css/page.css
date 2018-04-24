@@ -26,6 +26,10 @@ body{
     color:#666;
 }
 
+textarea {
+    font-family: arial;
+}
+
 
 /*page css*/
 @font-face {font-family: "iconfont";
