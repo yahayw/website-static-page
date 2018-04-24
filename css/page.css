@@ -26,8 +26,13 @@ body{
     color:#666;
 }
 
+input {
+    outline: none;
+}
+
 textarea {
     font-family: arial;
+    outline: none;
 }
 
 
